@@ -19,15 +19,15 @@ let countdown;
 const quizArray = [
     {
         id: "0",
-        question: "How many legs do insects have?",
-        options: ["six", "seven", "four", "eight"],
-        correct: "six",
+        question: "A set of instructions or guidelines that commands computer how to perform a task is known as …",
+        options: ["Hardware", "Software", "Stored data", "Program"],
+        correct: "Program",
     },
     {
         id: "1",
-        question: "What is the closest planet to the Sun?",
-        options: ["Earth", "Jupiter", "Mercury", "Mars"],
-        correct: "Mercury",
+        question: "Which one of the following states, first created telephone directory on internet?",
+        options: ["Assam", "Kerala", "Goa", "Tamilnadu"],
+        correct: "Kerala",
     },
     {
         id: "2",
@@ -37,9 +37,9 @@ const quizArray = [
     },
     {
         id: "3",
-        question: "In which country can you find the Eiffel Tower",
-        options: ["France", "Italy", "India", "Germany"],
-        correct: "France",
+        question: "Which among the following was the first computer virus detected in India?",
+        options: ["Good Morning", "I Love You", "Happy Birthday Joshi", "Melissa"],
+        correct: "Happy Birthday Joshi",
     },
     {
         id: "4",
@@ -60,9 +60,9 @@ const quizArray = [
     },
     {
         id: "7",
-        question: "Google (www.google.com) is a:",
-        options: ["Search Engine", "Number in Math", "Directory of images", "Chat service on the web"],
-        correct: "Search Engine",
+        question: "Which one of the following technologies is used to transmit voice, video, images data?",
+        options: ["ISDN", "DSL", "Leased Line", "Dail up lines"],
+        correct: "ISDN",
     },
     {
         id: "8",
